@@ -1,0 +1,190 @@
+@media (max-width: 767.98px) {
+     .welcome_photos,.welcome_ogsh,.highlight_content,.highlight_detail{
+        flex-direction:column;
+    }
+    .welcome_title h2{
+        font-size: 14px;
+    }
+    .footer_section,.link_wrapper,.theme_wrapper{
+        flex-direction:column;
+    }
+    .meety_section ul{
+        padding-left:20px;
+    }
+    .venue span img{
+        width: 45px;
+    position: absolute;
+    top: -18px;
+    left: 50px;
+    }
+    .workshop span img{
+        width: 45px;
+    position: absolute;
+    top: -14px;
+    left: 0px;
+    }
+    .quick_block img{
+        width:40px;
+    }
+    .quick_section h3{
+        font-size: 12px;
+    }
+    .links span img{
+        width: 45px;
+    position: absolute;
+    top: -20px;
+    left: 35px;
+    }
+    .m_divide{
+        margin-bottom:10px;
+        margin-top:10px;
+    }
+    .meety_section ul li a{
+        font-size: 11px;
+    }
+    .highlights span img{
+        width: 45px;
+    position: absolute;
+    top: -23px;
+    left: 0px;
+    }
+    .clock span img{
+        width: 45px;
+    position: absolute;
+    top: -20px;
+    left: 10px;
+    }
+    .themes span img{
+        width: 45px;
+    position: absolute;
+    top: -20px;
+    left: 10px;
+    }
+    .footer_summit li{
+        font-size: 14px;
+    }
+    .footer_summit ul li h4,.meety_section ul li h4{
+        font-size: 12px;
+    }
+    .footer_summit ul li p,.meety_section ul li p{
+        font-size: 11px;
+    }
+    .meety_logo img{
+        width: 120px;
+    }
+    .meety_section li{
+        font-size: 12px;
+    }
+    .register_wrap{
+        margin-top: 45px;
+        margin-bottom:15px;
+    }
+    .highlight_card{
+        margin-top: 10px;
+    margin-bottom: 10px;
+    flex-direction: column;
+    }
+    .register_section{
+        flex-direction: column;
+    }
+    .reg_tickets ul li{
+        font-size: 11px;
+        font-weight: 400;
+    }
+    .footer_card{
+        background-position: 70% 43%;
+    }
+    .aicog_organised{
+        margin-top: 10px;
+    margin-bottom: 15px;
+    }
+    .aicog_content{
+        flex-direction: column;
+    }
+    .venue_site{
+        flex-direction: column;
+    /*text-align: center;*/
+    }
+    .about_section,.abstract_wrapper,.abs_online_wrap{
+        flex-direction: column;
+    }
+    .workshop_right{
+        margin-top:10px;
+    }
+    .all_rights{
+        display:inline-block;
+    }
+    .social_media{
+        width:50%;
+        margin: 10px auto 0px;
+    }
+    .copyright{
+        margin:10px 0px;
+    }
+    .abstract_wrapper{
+        padding:0px;
+    }
+    .date_workshop h3{
+        font-size: 24px;
+    }
+    .aicog_mission h3, .aicog_vision h3, .venue_content h3{
+        font-size: 16px;
+    }
+    .inner_space{
+        margin: 0px 0px;
+    }
+    .abstract_online{
+        margin-top: 30px;
+    }
+    .abstract_wrapper_title,.aesi_contact_card{
+        flex-direction: column;
+        margin-top: 34px;
+    }
+    .reg_tickets ul li{
+        line-height: 28px;
+    }
+    .register_card{
+        margin-bottom: 15px;
+    }
+    .footer_summit{
+        margin-top: 15px;
+    }
+    .contact_section ul li h3{
+        font-size: 14px;
+    }
+    .meety_section{
+        margin-top: 15px;
+    }
+    .contact_summit ul{
+        padding-left:20px;
+    }
+    .accom_card,.icf_wrapper{
+        flex-direction:column;
+    }
+}
+
+@media (min-width: 1200px) { }
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .reg_tickets ul li{
+        font-size: 13px;
+    font-weight: 400;
+    list-style-type: none;
+    line-height: 32px;
+    }
+   
+}
+@media (min-width: 992px) and (max-width: 1320px) { 
+    .reg_tickets ul li{
+        font-size: 13px;
+    font-weight: 400;
+    list-style-type: none;
+    line-height: 32px;
+    }
+    .workshop span img{
+        width: 60px;
+    position: absolute;
+    top: -23px;
+    left: -42px;
+    }
+}
